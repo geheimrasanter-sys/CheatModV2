@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cheatmodv2",
+  "name": "CheatMod V2",
+  "description": "Fly, Speed Hack (einstellbar) und XRay für Tekkit Lite",
+  "version": "2.0",
+  "mcversion": "1.6.4",
+  "url": "https://github.com/geheimrasanter-sys/CheatModV2",
+  "updateUrl": "",
+  "authors": ["geheimrasanter-sys"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
